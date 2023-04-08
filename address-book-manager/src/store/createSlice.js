@@ -26,7 +26,7 @@ const createContactSlice = createSlice({
                 state[index].name = action.payload.updatedName;
                 state[index].number = action.payload.updatedNumber;
             }else if(action.payload.updatedName !== '') {
-                state[index].number = action.payload.updatedName;
+                state[index].name = action.payload.updatedName;
                 }else{
                     state[index].number = action.payload.updatedNumber;
                 } 
