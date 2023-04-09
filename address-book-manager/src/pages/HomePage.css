@@ -1,70 +1,68 @@
-.inputBox{
-   flex: 1;
-
+.inputBox {
+  flex: 1;
 }
 
-.inpt-box2{
-    flex: 1;
+.inpt-box2 {
+  flex: 1;
 }
 
-.label{
-    font-size: 25px;
-    margin-top: 20px;
-    padding-bottom:30px ;
-    font-weight: 600;
+.label {
+  font-size: 25px;
+  margin-top: 20px;
+  padding-bottom: 30px;
+  font-weight: 600;
 }
 
-.input{
-    width: 80%;
-    border: none;
-    border-radius: 5px;
+.input {
+  width: 80%;
+  border: none;
+  border-radius: 5px;
 }
 
-.btn-update{
-    display: flex;
-    justify-content: center;
-flex: 0.7;
-width: 100%;
-height: 90%;
+.btn-update {
+  display: flex;
+  justify-content: center;
+  flex: 0.7;
+  width: 100%;
+  height: 90%;
 }
 
-.btnUpdate{
-    font-size: 25px;
-    font-weight: 700;
-    color: white;
-    background-color: rgb(108, 243, 108);
-    width: 90%;
-    height: 100%;
-    border: none;
-    padding:5px 10px ;
-    border-radius: 5px;
+.btnUpdate {
+  font-size: 25px;
+  font-weight: 700;
+  color: white;
+  background-color: rgb(108, 243, 108);
+  width: 90%;
+  height: 100%;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 
-.btnCreate{
-margin-top: 20px;
- font-size: 25px;
-    font-weight: 700;
-    color: white;
-    background-color: rgb(108, 243, 108);
-    width: 90%;
-    height: 100%;
-    border: none;
-    padding:5px 10px ;
-    border-radius: 5px;
+.btnCreate {
+  margin-top: 20px;
+  font-size: 25px;
+  font-weight: 700;
+  color: white;
+  background-color: rgb(108, 243, 108);
+  width: 90%;
+  height: 100%;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 
-.editContact{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin: 20px 20px;
-border: 2px solid grey;
-gap: 20px;
-padding: 10px 10px;
+.editContact {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 20px;
+  border: 2px solid grey;
+  gap: 20px;
+  padding: 10px 10px;
 }
 
-
-.newContact{
-    margin: 10px 20px;
-    padding: 20px 0px;
+.newContact {
+  margin: 10px 20px;
+  padding: 20px 0px;
 }
